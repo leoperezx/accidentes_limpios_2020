@@ -9,6 +9,6 @@ Algunas de las crrecciones realizadas fueron:
 - Se eliminaron filas con datos vacios.
 - Se eliminaron filas repetidas.
 
-Todo el proceso se puede ver en [limpieza de accidentes (1](https://www.kaggle.com/code/leonardoperezhurtado/limpieza-accidentes-palmira-1) y [Limpieza de accidentes (2)](https://www.kaggle.com/code/leonardoperezhurtado/limpieza-accidentes-palmira-2). 
+Todo el proceso se puede ver en [limpieza de accidentes (1)](https://www.kaggle.com/code/leonardoperezhurtado/limpieza-accidentes-palmira-1) y [Limpieza de accidentes (2)](https://www.kaggle.com/code/leonardoperezhurtado/limpieza-accidentes-palmira-2). 
  
-&copy; @Leopererez.x
+@&Lscr;eopererez.x | &#9814; | &copy; 
