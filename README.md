@@ -11,4 +11,4 @@ Algunas de las crrecciones realizadas fueron:
 
 Todo el proceso se puede ver en [limpieza de accidentes (1)](https://www.kaggle.com/code/leonardoperezhurtado/limpieza-accidentes-palmira-1) y [Limpieza de accidentes (2)](https://www.kaggle.com/code/leonardoperezhurtado/limpieza-accidentes-palmira-2). 
  
-@&Lscr;eopererez.x | &#9814; | &copy; 
+@&Lscr;eoperez.x | &copy; 
